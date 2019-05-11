@@ -22,10 +22,6 @@ middlewares:
     enabled: true
 ```
 
-## Disclaimer
-
-This plugin is experimental and unstable. Please report any issue you found.
-
 ## License
 
 MIT (http://www.opensource.org/licenses/mit-license.php)
