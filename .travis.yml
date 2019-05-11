@@ -1,0 +1,19 @@
+language: node_js
+node_js:
+- '11'
+- '10'
+- '8'
+sudo: false
+cache:
+  directories:
+  - node_modules
+deploy:
+  node_js: 8
+  provider: npm
+  skip_cleanup: true
+  email: honza@hommer.cz
+  api_key:
+    secure: TFDFdNsdsJaDzyEDoQIjJ/LpeCQ2foMaPtxLvqxi8bUMZp9R7SEZltaypXzsmjQZVfvgyVMJekR5n7PljiLKKsPsTdWtA3KYv4jAKxb4xip+y1G/DwQ/n9jPHlB9G/RPHCfR6aTVJnUJQL+EFFZtEoh8AFe0lT26qSPKizQRv6/G5UdlQI7TuRsMLvdn5PIkwXaVKaubSSOgSGc8AxLLUKXZibmUXy3oh59wAL7YO+cn5k00CKhTJrWQoFSKlTJIL7dbn9EiA5kKohD8Ca71nOvd0Y+SpQVrgr5Da4qp4B0bnIseoP6L1DveJyKHtL0wTq9tXm4SpGS6NakObm7aktOZQjppm0HTTDtqAAd4AOQilFhhqg6o7YAdFWp63pFckHxRGtjfNo61SEvhYw75ItkaYuNKVSo2P05/20Dmoz25+Jvf4+Rvad84fYxiwUgIM6TinD+8OwfaFFwec4KujZ3bd/nHxhlfMzuhfi2Jl68tnuJSXR5Yvx5JSa95k74fY79C0nnIZUbi//TTuZiLSLmI7YtY7aM4zHIFTLUw/c9W7LxYMW1TmHY/pa28MEWQA8T6IiKoiVil2dLj4q0h56ZPGR8pxsLs3cxpKRC8R5xjeNLyH9jo0NhnmwaceimCkjdemN+aTyOxiRxWsUv0d46Z7pOXQrNdG8NQh4wdTZE=
+  on:
+    tags: true
+    repo: honzahommer/verdaccio-https
