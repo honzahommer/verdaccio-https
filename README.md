@@ -8,7 +8,7 @@
 
 ## Requirements
 
-* verdaccio@3.x or higher
+* [verdaccio@3.x or higher](https://verdaccio.org)
 
 ```
  npm install --global verdaccio-https
