@@ -5,6 +5,7 @@
 [![build status](https://img.shields.io/travis/honzahommer/verdaccio-https/master.svg)](http://travis-ci.org/honzahommer/verdaccio-https)
 ![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![node](https://img.shields.io/node/v/verdaccio-https/latest.svg)](https://www.npmjs.com/package/verdaccio-https)
+[![Greenkeeper badge](https://badges.greenkeeper.io/honzahommer/verdaccio-https.svg)](https://greenkeeper.io/)
 
 ## Requirements
 
