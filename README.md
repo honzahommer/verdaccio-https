@@ -7,6 +7,11 @@
 [![node](https://img.shields.io/node/v/verdaccio-https/latest.svg)](https://www.npmjs.com/package/verdaccio-https)
 [![Greenkeeper badge](https://badges.greenkeeper.io/honzahommer/verdaccio-https.svg)](https://greenkeeper.io/)
 
+## Where it All Began
+
+> I have verdaccio running in a container on heroku running in http but can be accessed through SSL using their reverse proxy. Their method of forcing redirect to https is like this...
+https://github.com/verdaccio/verdaccio/issues/1305
+
 ## Requirements
 
 * [verdaccio@3.x or higher](https://verdaccio.org)
