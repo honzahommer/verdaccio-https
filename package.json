@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "8.0.0",
-    "@commitlint/config-conventional": "7.6.0",
+    "@commitlint/config-conventional": "8.0.0",
     "@commitlint/travis-cli": "8.0.0",
     "@types/express": "4.16.1",
     "@types/http-errors": "1.6.1",
