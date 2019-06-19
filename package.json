@@ -1,6 +1,6 @@
 {
   "name": "verdaccio-https",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "verdaccio middleware plugin to redirect to https",
   "main": "lib/index.js",
   "repository": {
