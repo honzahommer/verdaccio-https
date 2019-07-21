@@ -46,7 +46,7 @@
     "@types/node": "12.6.4",
     "@types/request": "2.48.2",
     "@verdaccio/babel-preset": "1.0.0",
-    "@verdaccio/eslint-config": "0.0.1",
+    "@verdaccio/eslint-config": "2.0.0",
     "@verdaccio/types": "6.2.0",
     "codecov": "3.5.0",
     "cross-env": "5.2.0",
