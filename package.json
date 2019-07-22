@@ -12,7 +12,6 @@
     "test": "npm run lint && jest",
     "prepublish": "npm run build",
     "coverage:publish": "codecov",
-    "commitmsg": "commitlint -e $GIT_PARAMS",
     "release": "standard-version -a -s",
     "type-check": "tsc --noEmit",
     "type-check:watch": "npm run type-check -- --watch",
@@ -59,11 +58,6 @@
     "standard-version": "6.0.1",
     "typescript": "3.4.5"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "commitlint -e $GIT_PARAMS"
-    }
-  },
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
@@ -71,5 +65,10 @@
   },
   "engines": {
     "node": ">=8"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -e $HUSKY_GIT_PARAMS"
+    }
   }
 }
