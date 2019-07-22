@@ -10,7 +10,7 @@
   "scripts": {
     "lint": "eslint . --ext .js,.ts",
     "test": "npm run lint && jest",
-    "prepublish": "npm run build",
+    "prepublishOnly": "npm run build",
     "coverage:publish": "codecov",
     "release": "standard-version -a -s",
     "type-check": "tsc --noEmit",
