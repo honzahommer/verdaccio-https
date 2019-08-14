@@ -44,7 +44,7 @@
     "@types/memory-fs": "0.3.2",
     "@types/node": "12.6.9",
     "@types/request": "2.48.2",
-    "@typescript-eslint/parser": "1.13.0",
+    "@typescript-eslint/parser": "2.0.0",
     "@verdaccio/babel-preset": "2.0.0",
     "@verdaccio/eslint-config": "2.0.0",
     "@verdaccio/types": "7.0.0",
