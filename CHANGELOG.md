@@ -1,5 +1,17 @@
 # Change Log
 
+## [v1.0.10](https://github.com/honzahommer/verdaccio-https/tree/v1.0.10) (2019-08-14)
+[Full Changelog](https://github.com/honzahommer/verdaccio-https/compare/v1.0.9...v1.0.10)
+
+**Merged pull requests:**
+
+- Update @typescript-eslint/parser to the latest version 🚀 [\#44](https://github.com/honzahommer/verdaccio-https/pull/44) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update @types/node to the latest version 🚀 [\#43](https://github.com/honzahommer/verdaccio-https/pull/43) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update standard-version to the latest version 🚀 [\#42](https://github.com/honzahommer/verdaccio-https/pull/42) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update @types/jest to the latest version 🚀 [\#41](https://github.com/honzahommer/verdaccio-https/pull/41) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update husky to the latest version 🚀 [\#40](https://github.com/honzahommer/verdaccio-https/pull/40) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update @verdaccio/types to the latest version 🚀 [\#39](https://github.com/honzahommer/verdaccio-https/pull/39) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+
 ## [v1.0.9](https://github.com/honzahommer/verdaccio-https/tree/v1.0.9) (2019-07-22)
 [Full Changelog](https://github.com/honzahommer/verdaccio-https/compare/v1.0.8...v1.0.9)
 
