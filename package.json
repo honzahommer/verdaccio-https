@@ -43,7 +43,7 @@
     "@types/jest": "24.0.18",
     "@types/memory-fs": "0.3.2",
     "@types/node": "12.7.2",
-    "@types/request": "2.48.2",
+    "@types/request": "2.48.3",
     "@typescript-eslint/parser": "2.0.0",
     "@verdaccio/babel-preset": "8.0.0",
     "@verdaccio/eslint-config": "2.0.0",
