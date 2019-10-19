@@ -4,7 +4,7 @@ import { Logger } from '@verdaccio/types';
 
 // @ts-ignore
 const config: ConfigHttps = {
-  enabled: true
+  enabled: true,
 };
 
 const logger: Logger = {
@@ -14,7 +14,7 @@ const logger: Logger = {
   child: e => console.warn(e),
   warn: () => {},
   http: e => console.warn(e),
-  trace: e => console.warn(e)
+  trace: e => console.warn(e),
 };
 
 describe('Https plugin', () => {
