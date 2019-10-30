@@ -42,7 +42,7 @@
     "@types/http-errors": "1.6.2",
     "@types/jest": "24.0.19",
     "@types/memory-fs": "0.3.2",
-    "@types/node": "12.7.12",
+    "@types/node": "12.12.3",
     "@types/request": "2.48.3",
     "@typescript-eslint/parser": "2.3.3",
     "@verdaccio/babel-preset": "8.1.2",
