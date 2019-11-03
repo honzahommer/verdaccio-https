@@ -45,7 +45,7 @@
     "@types/node": "12.11.2",
     "@types/request": "2.48.3",
     "@typescript-eslint/parser": "2.5.0",
-    "@verdaccio/babel-preset": "8.1.2",
+    "@verdaccio/babel-preset": "8.2.0",
     "@verdaccio/eslint-config": "8.2.0",
     "@verdaccio/types": "8.0.0",
     "codecov": "3.6.0",
