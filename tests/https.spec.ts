@@ -1,6 +1,5 @@
-import Https, { ConfigHttps } from '../src/index';
-
 import { Logger } from '@verdaccio/types';
+import Https, { ConfigHttps } from '../src/index';
 
 // @ts-ignore
 const config: ConfigHttps = {
