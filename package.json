@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/honzahommer/verdaccio-https#readme",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.19.2"
   },
   "devDependencies": {
     "@commitlint/cli": "8.2.0",
